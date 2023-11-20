@@ -1,0 +1,5 @@
+name: WarmPlacesPlugin
+version: '${project.version}'
+main: com.hirakurai.warmplacesplugin.WarmPlacesPlugin
+api-version: '1.20'
+authors: [HirakuraI]
